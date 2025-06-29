@@ -20,11 +20,12 @@ The Raku Localization Project provides natural language localizations of the [Ra
 
 ## Want to add a localization?
 
-- Install the [L10N](https://raku.land/zef:l10n/L10N) distribution
+- Install the [L10N](https://raku.land/zef:l10n/L10N) and [App::Mi6](https://raku.land/zef:skaji/App::Mi6) distributions
 - Change into a directory in which you want your localization repository to live
 - Run the command: new-localization XX Xerxes  (where XX is the ISO 639-1 code for the language, and Xerxes is the name of the language in English)
 - Change into the newly created directory
-- Start editing the XX.l10n file
+- Start editing the XX.l10n file (where XX is the ISO 639-1 code for the language)
 - When done, run the "update-localization" command
 - Install the repository locally with: zef install . --force
 - Start testing your localized code with "xerku" (instead of "raku"), where the first three letters are of the language that you specified)
+- Update to github or other online service as appropriate
