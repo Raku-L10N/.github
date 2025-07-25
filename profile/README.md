@@ -5,7 +5,7 @@ The Raku Localization Project provides natural language localizations of the [Ra
 ## Supported localizations
 
 - [Dutch](https://raku.land/zef:l10n/L10N::NL)
-- [Esperanto](https://raku.land/zef:l10n/L10N::EO)
+- [Esbelando, Esperanto](https://raku.land/zef:l10n/L10N::EO)
 - [French](https://raku.land/zef:l10n/L10N::FR)
 - [German](https://raku.land/zef:l10n/L10N::DE)
 - [Hungarian](https://raku.land/zef:l10n/L10N::HU)
