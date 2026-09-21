@@ -19,6 +19,7 @@ The Raku Localization Project provides natural language localizations of the [Ra
 
 - [Creating a new programming language - Draig](https://dev.to/finanalyst/creating-a-new-programming-language-draig-503p)
 - [Ryuu - a Japanese dragon](https://dev.to/finanalyst/ryuu-a-japanese-dragon-2e7m)
+- [Raku: la lingua dove posso parlare italiano](https://andrewshitov.com/2026/09/15/raku-la-lingua-dove-posso-parlare-italiano/)
 
 ## Want to add a localization?
 
