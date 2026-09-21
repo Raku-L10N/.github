@@ -11,8 +11,11 @@ The Raku Localization Project provides natural language localizations of the [Ra
 - [Hungarian](https://raku.land/zef:l10n/L10N::HU)
 - [Italian](https://raku.land/zef:l10n/L10N::IT)
 - [Japanese](https://raku.land/zef:l10n/L10N::JA)
+- [Latvian](https://raku.land/zef:ash/L10N::LV)
 - [Portuguese](https://raku.land/zef:l10n/L10N::PT)
+- [Russian](https://raku.land/zef:ash/L10N::RU)
 - [TaoYuan, Chinese](https://raku.land/zef:l10n/L10N::ZH)
+- [Ukrainian](https://raku.land/zef:ash/L10N::UK)
 - [Welsh](https://raku.land/zef:l10n/L10N::CY)
 
 ## Blog posts
