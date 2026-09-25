@@ -14,6 +14,7 @@ The Raku Localization Project provides natural language localizations of the [Ra
 - [Latvian](https://raku.land/zef:ash/L10N::LV)
 - [Portuguese](https://raku.land/zef:l10n/L10N::PT)
 - [Russian](https://raku.land/zef:ash/L10N::RU)
+- [Spanish](https://raku.land/zef:l10n/L10N::ES)
 - [TaoYuan, Chinese](https://raku.land/zef:l10n/L10N::ZH)
 - [Ukrainian](https://raku.land/zef:ash/L10N::UK)
 - [Welsh](https://raku.land/zef:l10n/L10N::CY)
@@ -32,6 +33,15 @@ The Raku Localization Project provides natural language localizations of the [Ra
 - Change into the newly created directory
 - Start editing the XX.l10n file (where XX is the ISO 639-1 code for the language)
 - When done, run the "update-localization" command
+- Install the repository locally with: zef install . --force
+- Start testing your localized code with "xerku" (instead of "raku"), where the first three letters are of the language that you specified)
+- Update to github or other online service as appropriate
+
+## Want to update a localization?
+
+- Run the "update-keys" command.  This will add any new translation keys.
+- Edit the XX.l10n file as appropriate (where XX is the ISO 639-1 code for the language)
+When done, run the "update-localization" command
 - Install the repository locally with: zef install . --force
 - Start testing your localized code with "xerku" (instead of "raku"), where the first three letters are of the language that you specified)
 - Update to github or other online service as appropriate
