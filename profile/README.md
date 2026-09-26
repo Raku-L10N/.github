@@ -4,6 +4,7 @@ The Raku Localization Project provides natural language localizations of the [Ra
 
 ## Supported localizations
 
+- [Bulgarian](https://raku.land/zef:antononcube/L10N::BG)
 - [Dutch](https://raku.land/zef:l10n/L10N::NL)
 - [Esbelando, Esperanto](https://raku.land/zef:l10n/L10N::EO)
 - [French](https://raku.land/zef:l10n/L10N::FR)
